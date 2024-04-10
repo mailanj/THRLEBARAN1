@@ -1,0 +1,15 @@
+/* Custom CSS */
+body {
+  padding-top: 56px; /* Height of navbar */
+}
+
+#hero {
+  background-color: #f8f9fa;
+  padding: 100px 0;
+}
+
+.footer {
+  background-color: #343a40;
+  color: #fff;
+  padding: 20px 0;
+}
